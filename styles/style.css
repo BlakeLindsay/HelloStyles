@@ -1,0 +1,47 @@
+header {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	border: 5px solid blue;
+	font: 100;
+
+}
+
+nav{
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	/* margin: 25px 50px 25px; */
+	padding: 5px;
+	width: 75%;
+	text-align: center;
+	border: 5px solid blue;
+	font: 100;
+}
+
+a {
+	/* background-color: aliceblue; */
+	/* border-style: dashed; */
+	/* border-radius: 5px; */
+	display: inline-block;
+	margin-left: 3%;
+	margin-right: 3%;
+	/* color: #864d4d; */
+}
+
+main{
+	text-align: left;
+	margin: auto;
+}
+
+p{
+	background-color: grey;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+img{
+	display: block;
+	margin: auto;
+}
